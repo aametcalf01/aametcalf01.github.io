@@ -2,7 +2,7 @@
 
 This website will showcase the research I am involved in as a MS student of Complex Systems and Data Science at the Unviversity of Vermont.
 
-<img src="Assets/noaa.png" width="200"> ![GitHub Logo](/images/uvm.png)
+<img src="images/noaa.png" width="200"> ![GitHub Logo](/images/uvm.png)
 ![GitHub Logo](/images/roboctopus.png)
 
 
