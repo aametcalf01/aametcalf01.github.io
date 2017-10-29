@@ -2,7 +2,7 @@
 
 This website will showcase the research I am involved in as a MS student of Complex Systems and Data Science at the Unviversity of Vermont.
 
-<p align="right"><img src="images/roboctopus.png" width="200"><img src="images/uvm.png" width="300"><img src="images/noaa.png" width="150"></p>
+<p align="left"><img src="images/roboctopus.png" width="200"><p/><p align="center"><img src="images/uvm.png" width="300"><p/><p align="right"><img src="images/noaa.png" width="150"></p>
 
 
 
