@@ -1,6 +1,6 @@
 ## Andy Metcalf
 
-You can use the [editor on GitHub](https://github.com/aametcalf01/aametcalf01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website will showcase the research I am involved in as a MS student of Complex Systems and Data Science at the Unviversity of Vermont.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
