@@ -1,6 +1,6 @@
 ## Andy Metcalf
 
-This website will showcase the research I am involved in as a MS student of Complex Systems and Data Science at the Unviversity of Vermont.
+This website will showcase the research I am involved in as a MS student of Complex Systems and Data Science at the University of Vermont.
 
 <p align="left"><img src="images/roboctopus.png" width="200"><p/><p align="center"><img src="images/uvm.png" width="300"><p/><p align="right"><img src="images/noaa.png" width="150"></p>
 
